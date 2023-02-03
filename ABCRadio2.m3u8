@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=52800,AVERAGE-BANDWIDTH=52800,CODECS="mp4a.40.2"
+https://mediaserviceslive.akamaized.net/hls/live/2038156/localsunshine/masterhq.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=26400,AVERAGE-BANDWIDTH=26400,CODECS="mp4a.40.5"
+https://mediaserviceslive.akamaized.net/hls/live/2038156/localsunshine/masterlq.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=52800,AVERAGE-BANDWIDTH=52800,CODECS="mp4a.40.2"
+https://mediaserviceslive.akamaized.net/hls/live/2038156-b/localsunshine/masterhq.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=26400,AVERAGE-BANDWIDTH=26400,CODECS="mp4a.40.5"
+https://mediaserviceslive.akamaized.net/hls/live/2038156-b/localsunshine/masterlq.m3u8
