@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,GTA SA:MP
+#EXTVLCOPT:network-caching=1000
+http://listen.shoutcast.com/gtasa-mp
+#EXTINF:0,Ciggy Radio
+#EXTVLCOPT:network-caching=1000
+http://listen.shoutcast.com/ciggyradio
+#EXTINF:0,(#1 - 0/512) RUSSIAN WAVE - RUSSKAYA VOLNA - amgradio.ru
+#EXTVLCOPT:network-caching=1000
+https://shout.amgradio.ru:443/RuWave48
+#EXTINF:0,Radio RUSSKAYA REKLAMA
+#EXTVLCOPT:network-caching=1000
+http://rs3.radiostreamer.com:8030/stream
+#EXTINF:0,(#1 - 0/512) 100 dorog
+#EXTVLCOPT:network-caching=1000
+http://178.185.112.147:8000/
+#EXTINF:0,(#1 - 3/1500) BrooklynFM - BFM (Russian Radio)
+#EXTVLCOPT:network-caching=1000
+http://stream.bfmradio.us:8060
+#EXTINF:0,BrooklynFM - BFM (Russian Radio)
+#EXTVLCOPT:network-caching=1000
+http://stream.bfmradio.us:8020
