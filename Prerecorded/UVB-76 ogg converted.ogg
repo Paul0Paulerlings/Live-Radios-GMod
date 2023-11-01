@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Converting file:///G:/Backups/GMod%20stauph/E2%20SF%20STUFF/Playlists/Live%20Radios/Number%20Stations/UVB-76%20aka%20Buzzer.m3u
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:sout=#transcode{vcodec=none,acodec=vorb,ab=128,channels=2,samplerate=44100,scodec=none}:std{access=file{no-overwrite},mux=ogg,dst='G:/Backups/GMod stauph/E2 SF STUFF/Playlists/Live Radios/Number Stations/UVB-76 ogg converted.ogg'}
+UVB-76%20aka%20Buzzer.m3u
